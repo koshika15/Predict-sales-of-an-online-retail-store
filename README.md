@@ -46,4 +46,4 @@ To understand the whole process these links can be followed in order:
 Click [here](https://github.com/koshika15/Predict-sales-of-an-online-retail-store/blob/master/Capstone%20Project%202_%20Final%20Report.pdf) for the full project report.
 
 ## Result
-The objective of this project was to predict the IMDB rating of movies before they are released. The model we came up with gives us good results for movies rated between 4 and 8, most of them within ± 1 error. For the extreme ratings, as the data points are not enough, the model gives error within ±2 error points.
+The objective of this project was to predict sales for each item in a month. The model we came up with gives us decent results with RMSE of 23 on test data.
